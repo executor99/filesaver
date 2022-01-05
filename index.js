@@ -422,7 +422,7 @@ bot.action('SRC', async(ctx)=>{
         parse_mode: 'HTML',
         reply_markup:{
             inline_keyboard: [
-                [{text: `💿 HEROKU`, url: `https://bit.ly/3yA6IRA`},{text: `💿 KOMPUTER/VPS`, url: `https://bit.ly/38qaMsS`}],
+                [{text: `💿 HEROKU`, url: `https://t.me/situspemersatu69`},{text: `💿 KOMPUTER/VPS`, url: `https://t.me/situspemersatu69`}],
                 [{text:'Kembali',callback_data:'STARTUP'}]
             ]
         }
